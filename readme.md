@@ -36,10 +36,10 @@ There are three ways by which you can sign up for watsonx.ai.
 
 The below sections explain about how to create the prerequisite (IBMid and IBM Cloud Account) and Signup for watsonx.ai (Free Trial and Techzone). 
 
-[2.1 Create IBMid](./21-create-ibmid)
-[2.2 Create IBM Cloud Account](./22-create-ibm-cloud-account)
-[2.3 Sign up for watsonx.ai Free Trial](./23-sign-up-for-watsonx-ai-free-trial)
-[2.4 Sign up for watsonx.ai via TechZone](./24-sign-up-for-watsonx-ai-via-techzone)
+- [2.1 Create IBMid](./21-create-ibmid)
+- [2.2 Create IBM Cloud Account](./22-create-ibm-cloud-account)
+- [2.3 Sign up for watsonx.ai Free Trial](./23-sign-up-for-watsonx-ai-free-trial)
+- [2.4 Sign up for watsonx.ai via TechZone](./24-sign-up-for-watsonx-ai-via-techzone)
 
 ## 3. Quick tour of watsonx.ai environment 
 
