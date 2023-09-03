@@ -63,11 +63,7 @@ Let’s take a quick tour of watsonx.ai environment.
 
 You can prompt foundation models in IBM watsonx.ai programmatically using the Python library.
 
-4.1 Python
-4.2 Curl
-4.3 Notebook
-
-[Details](./41-programmatically-inferencing)
+See the details [here](./41-programmatically-inferencing)
 
 ## 5. Reference 
 
