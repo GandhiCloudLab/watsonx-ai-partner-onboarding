@@ -20,17 +20,19 @@ There are three ways by which you can sign up for watsonx.ai.
 ### Personal Account	
 - Create an IBMid using your email id. See 1.1
 - Create  IBM Cloud account with your email address, personal information, and credit card information. 
-(See 1.2)
+(See 2.2)
 - Sign up for watsonx.ai free trial. 
-(See 1.3)
+(See 2.3)
  
 ### Techzone Account
-- Create an IBMid using your organization email id. (See 1.1)
+- Create an IBMid using your organization email id. (See 2.1)
 - Register your email id via IBM Partner Plus for TechZone 
-- Request for watsonx.ai account in TechZone (See 1.4)
+- Create  IBM Cloud account with your email address, official information, and credit card information. 
+(See 2.2)
+- Request for watsonx.ai account in TechZone (See 2.4)
 
 ### Organization Account
-- Create an IBMid using your organization email id. (See 1.1)
+- Create an IBMid using your organization email id. (See 2.1)
 - Request your administrator to invite you to join Organization IBM Cloud Account which has already signed up for watsonx.ai account
 
 

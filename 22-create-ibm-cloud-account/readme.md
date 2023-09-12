@@ -22,7 +22,7 @@ Let’s create new IBM Cloud Account.
 <img src="images/img-cloud-acc-15.png">
 <img src="images/img-cloud-acc-16.png">
 
-- Enter all the required info.
+- Enter all the required official / personal info including credit card info.
 - Click on `Create Account`.
 <img src="images/img-cloud-acc-17.png">
 
